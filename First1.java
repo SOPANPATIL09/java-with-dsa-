@@ -1,5 +1,5 @@
 public class First{
     public static void main(String []args){
-        System.out.prinln("sopan");
+        System.out.prinln("Hello world");
     }
 }

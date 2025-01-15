@@ -5,7 +5,7 @@ public class Inputfromuser{
         //creating object of scanner class
         Scanner obj = new  Scanner(System.in);
         System.out.println("enter a number:=");
-        int num =obj.nextint();
+        int num =obj.nextInt();
         System.out.println("entered number is:="+num);
             }
 }

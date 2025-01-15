@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Largestnumber2",
+            "request": "launch",
+            "mainClass": "Largestnumber2",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "Threestatement",
+            "request": "launch",
+            "mainClass": "Threestatement",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "Statement",
+            "request": "launch",
+            "mainClass": "Statement",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "AdditonofTwoNumbers",
+            "request": "launch",
+            "mainClass": "AdditonofTwoNumbers",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "First1",
+            "request": "launch",
+            "mainClass": "First1",
+            "projectName": "java-with-dsa-_2c53f2b"
+        }
+    ]
+}

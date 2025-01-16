@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "StudentPass",
+            "request": "launch",
+            "mainClass": "StudentPass",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "java-with-dsa-_2c53f2b"
+        },
+        {
+            "type": "java",
             "name": "Largestnumber2",
             "request": "launch",
             "mainClass": "Largestnumber2",

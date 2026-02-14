@@ -8,16 +8,10 @@ public class Switch {
         int variable=sc.nextInt();
         switch (variable){
 
-            case 1:
-                System.out.println("samosa");
-                break; 
-            case 2: 
-                System.out.println("vada");
-                break;
-            case 3: 
-                System.out.println("idli");
-                break;
-            default: System.out.println("no food");
+            case 1 -> System.out.println("samosa");
+            case 2 -> System.out.println("vada");
+            case 3 -> System.out.println("idli");
+            default -> System.out.println("no food");
        
     }
 }

@@ -8,7 +8,7 @@ public class Find_Largest_Number {
         int num2 = sc.nextInt();
         System.out.println("Enter the third number: ");
         int num3 = sc.nextInt();
-       num1=max;
+       int max = num1;
        if(num2>max)  {
 
         max=num2;
@@ -17,7 +17,7 @@ public class Find_Largest_Number {
        if(num3>max){
         max=num3;
        }
-       System.out.println("largest_Number is "max);
+       System.out.println("largest_Number is " + max);
         }
 }
  

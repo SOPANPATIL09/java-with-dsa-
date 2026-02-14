@@ -1,81 +1,261 @@
 {
-    "configurations": [
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Swapping",
+      "request": "launch",
+      "mainClass": "Swapping",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StringCharacterShifting",
+      "request": "launch",
+      "mainClass": "StringCharacterShifting",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Arraysec",
+      "request": "launch",
+      "mainClass": "Arraysec",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Fibo",
+      "request": "launch",
+      "mainClass": "Fibo",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber1",
+      "request": "launch",
+      "mainClass": "PrimeNumber1",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "AreaOfCircle",
+      "request": "launch",
+      "mainClass": "AreaOfCircle",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Sopan",
+      "request": "launch",
+      "mainClass": "Sopan",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber2",
+      "request": "launch",
+      "mainClass": "PrimeNumber2",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ContinueKeyworld",
+      "request": "launch",
+      "mainClass": "ContinueKeyworld",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ContinueStatement",
+      "request": "launch",
+      "mainClass": "ContinueStatement",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Breakstatement2",
+      "request": "launch",
+      "mainClass": "Breakstatement2",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "BreakStatements",
+      "request": "launch",
+      "mainClass": "BreakStatements",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNUmber2",
+      "request": "launch",
+      "mainClass": "ReverseNUmber2",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "ReverseNumber",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Squarepattern",
+      "request": "launch",
+      "mainClass": "Squarepattern",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ForLoops",
+      "request": "launch",
+      "mainClass": "ForLoops",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "SumofFirstNaturalNO",
+      "request": "launch",
+      "mainClass": "SumofFirstNaturalNO",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoop2",
+      "request": "launch",
+      "mainClass": "WhileLoop2",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoops",
+      "request": "launch",
+      "mainClass": "WhileLoops",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StudentPass",
+      "request": "launch",
+      "mainClass": "StudentPass",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "TernaryOperator",
+      "request": "launch",
+      "mainClass": "TernaryOperator",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Largestnumber2",
+      "request": "launch",
+      "mainClass": "Largestnumber2",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Threestatement",
+      "request": "launch",
+      "mainClass": "Threestatement",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Statement",
+      "request": "launch",
+      "mainClass": "Statement",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Basic",
+      "request": "launch",
+      "mainClass": "Basic",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "AdditonofTwoNumbers",
+      "request": "launch",
+      "mainClass": "AdditonofTwoNumbers",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "First1",
+      "request": "launch",
+      "mainClass": "First1",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Lenovo/.vscode/java-with-dsa-",
+      "program": "c:/Users/Lenovo/.vscode/java-with-dsa-/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
         {
-            "type": "java",
-            "name": "Calculator",
-            "request": "launch",
-            "mainClass": "Calculator",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "Switch",
-            "request": "launch",
-            "mainClass": "Switch",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "StudentPass",
-            "request": "launch",
-            "mainClass": "StudentPass",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "TernaryOperator",
-            "request": "launch",
-            "mainClass": "TernaryOperator",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "Largestnumber2",
-            "request": "launch",
-            "mainClass": "Largestnumber2",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "Threestatement",
-            "request": "launch",
-            "mainClass": "Threestatement",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "EvenOdd",
-            "request": "launch",
-            "mainClass": "EvenOdd",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "Statement",
-            "request": "launch",
-            "mainClass": "Statement",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "Basic",
-            "request": "launch",
-            "mainClass": "Basic",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "AdditonofTwoNumbers",
-            "request": "launch",
-            "mainClass": "AdditonofTwoNumbers",
-            "projectName": "java-with-dsa-_2c53f2b"
-        },
-        {
-            "type": "java",
-            "name": "First1",
-            "request": "launch",
-            "mainClass": "First1",
-            "projectName": "java-with-dsa-_2c53f2b"
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
         }
-    ]
+      ]
+    }
+  ]
 }

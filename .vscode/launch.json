@@ -2,6 +2,174 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayPutZeroLast",
+      "request": "launch",
+      "mainClass": "ArrayPutZeroLast",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "CountVowelsUsingContain",
+      "request": "launch",
+      "mainClass": "CountVowelsUsingContain",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "CountVowels",
+      "request": "launch",
+      "mainClass": "CountVowels",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Array1",
+      "request": "launch",
+      "mainClass": "Array1",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ThirdLargestElementInArray",
+      "request": "launch",
+      "mainClass": "ThirdLargestElementInArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "AvgOfOdd",
+      "request": "launch",
+      "mainClass": "AvgOfOdd",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "AvgOfArray",
+      "request": "launch",
+      "mainClass": "AvgOfArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Practice_Array",
+      "request": "launch",
+      "mainClass": "Practice_Array",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Perfect",
+      "request": "launch",
+      "mainClass": "Perfect",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StrongNumber",
+      "request": "launch",
+      "mainClass": "StrongNumber",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "CheckPalindrome",
+      "request": "launch",
+      "mainClass": "CheckPalindrome",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "AppendSumOFNum",
+      "request": "launch",
+      "mainClass": "AppendSumOFNum",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "FindfirstdigitOfNum",
+      "request": "launch",
+      "mainClass": "FindfirstdigitOfNum",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ReturnAvgOfNumber",
+      "request": "launch",
+      "mainClass": "ReturnAvgOfNumber",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "PracticeOnString",
+      "request": "launch",
+      "mainClass": "PracticeOnString",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Practical",
+      "request": "launch",
+      "mainClass": "Practical",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Stringupper",
+      "request": "launch",
+      "mainClass": "Stringupper",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "PerfectNUmber",
+      "request": "launch",
+      "mainClass": "PerfectNUmber",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "Prac",
+      "request": "launch",
+      "mainClass": "Prac",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "rotateArray",
+      "request": "launch",
+      "mainClass": "rotateArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "RotateArray",
+      "request": "launch",
+      "mainClass": "RotateArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ThirdLargestArray",
+      "request": "launch",
+      "mainClass": "ThirdLargestArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargestArray",
+      "request": "launch",
+      "mainClass": "SecondLargestArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "StringReverse",
       "request": "launch",
       "mainClass": "StringReverse",

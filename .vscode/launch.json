@@ -2,6 +2,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LeapYear",
+      "request": "launch",
+      "mainClass": "LeapYear",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StringBuffer1",
+      "request": "launch",
+      "mainClass": "StringBuffer1",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ArraySubArray12",
+      "request": "launch",
+      "mainClass": "ArraySubArray12",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "SubArraySum",
+      "request": "launch",
+      "mainClass": "SubArraySum",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StringReverse1",
+      "request": "launch",
+      "mainClass": "StringReverse1",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "JDB",
+      "request": "launch",
+      "mainClass": "JDB",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "StringAks",
+      "request": "launch",
+      "mainClass": "StringAks",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber4",
+      "request": "launch",
+      "mainClass": "ReverseNumber4",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "SubArray",
+      "request": "launch",
+      "mainClass": "SubArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "ArrayPutZeroLast",
       "request": "launch",
       "mainClass": "ArrayPutZeroLast",

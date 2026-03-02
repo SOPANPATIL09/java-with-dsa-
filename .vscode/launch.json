@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LamdaExample",
+      "request": "launch",
+      "mainClass": "LamdaExample",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "MaxProductOfTriple",
       "request": "launch",
       "mainClass": "MaxProductOfTriple",

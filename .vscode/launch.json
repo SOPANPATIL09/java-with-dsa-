@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayPalindrome",
+      "request": "launch",
+      "mainClass": "ArrayPalindrome",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "PalindromeString",
       "request": "launch",
       "mainClass": "PalindromeString",

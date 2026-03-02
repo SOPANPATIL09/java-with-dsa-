@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxProductOfTriple",
+      "request": "launch",
+      "mainClass": "MaxProductOfTriple",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "ReverseString_",
       "request": "launch",
       "mainClass": "ReverseString_",

@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ThirdLargestElement",
+      "request": "launch",
+      "mainClass": "ThirdLargestElement",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "FrequencyOfArray",
+      "request": "launch",
+      "mainClass": "FrequencyOfArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "FindMinElement",
       "request": "launch",
       "mainClass": "FindMinElement",

@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Weathercheck",
+      "request": "launch",
+      "mainClass": "Weathercheck",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "ThirdLargestElement",
       "request": "launch",
       "mainClass": "ThirdLargestElement",

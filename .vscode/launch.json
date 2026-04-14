@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Selectionsort",
+      "request": "launch",
+      "mainClass": "Selectionsort",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "TimePass",
+      "request": "launch",
+      "mainClass": "TimePass",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
+      "name": "EqualibriumArray",
+      "request": "launch",
+      "mainClass": "EqualibriumArray",
+      "projectName": "java-with-dsa-_2c53f2b"
+    },
+    {
+      "type": "java",
       "name": "Weathercheck",
       "request": "launch",
       "mainClass": "Weathercheck",
